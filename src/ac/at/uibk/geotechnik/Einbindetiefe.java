@@ -84,7 +84,7 @@ public class Einbindetiefe extends Activity {
 		
 		
 		final String aboutMessage = "Version " + version + ", 2013; Licensed under the GPLv3\n\nWritten by: Felix Niederwanger\nIm Auftrag der Universität Innsbruck\n\n" +
-		"See http://gplv3.fsf.org/\nhttps://github.com/grisu48/Hydralische_Einbindetiefe.git";
+		"See http://gplv3.fsf.org/\nhttps://github.com/grisu48/Hydraulische_Einbindetiefe";
 
 		AlertDialog.Builder builder = new AlertDialog.Builder(this);
 		builder.setTitle(R.string.about);
