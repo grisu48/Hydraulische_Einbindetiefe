@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Einbindetiefe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title">Einbindetiefe</string>
+    <string name="B">B (m)</string>
+    <string name="H">H (m)</string>
+    <string name="calculate">Berechnen</string>
+    <string name="inputPrompt">Geben Sie Werte für B und H (in Meter) ein</string>
+    <string name="title_activity_display">Display</string>
+    <string name="result">Ergebnis</string>
+    <string name="IllegalNumberFormat">Ungültige Eingabe</string>
+    <string name="T">T</string>
+    <string name="menu_exit">Beenden</string>
+    <string name="menu_export">Exportieren</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Abbrechen</string>
+    <string name="Export">Exportieren</string>
+    <string name="Filename">Dateiname</string>
+    <string name="export_replace">Bestehende Datei ersetzen</string>
+    <string name="file_exists">Datei existiert bereits</string>
+    <string name="export_to">Exportiere nach</string>
+    <string name="inputFilename">Geben Sie den Dateinamen ein</string>
+    <string name="empty_filename">Leerer Dateiname</string>
+    <string name="use_default_bitmap_format">Benutze PNG als Standart</string>
+    <string name="illegal_fileending">Ungültige Dateiendung</string>
+    <string name="status_compress">Komprimiere ...</string>
+    <string name="status_write">Schreibe in Datei ...</string>
+    <string name="status_done">Fertig</string>
+    <string name="export_finished">Exportvorgang abgeschlossen</string>
+    <string name="draftDescription">Skizze der einzugebenden Daten</string>
+    <string name="about">Info</string>
+    <string name="title_desc">Berechnung der hydraulisch erforderlichen Einbindetiefe</string>
+
+</resources>
